@@ -1,6 +1,7 @@
 # João ( Niju ) :smiley:
 
 - Desktop/Mobile
+
 - Somente GGS
 #
 - Programador: Python e C#
