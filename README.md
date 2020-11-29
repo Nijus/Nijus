@@ -3,7 +3,7 @@
 - Desktop/Mobile
 
 #
-- Programador: Python e C#
+- Programador: JSon e C# :heart:
 
 - .NET :heart:
 
