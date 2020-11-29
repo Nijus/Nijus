@@ -2,7 +2,6 @@
 
 - Desktop/Mobile
 
-- Somente GGS
 #
 - Programador: Python e C#
 
